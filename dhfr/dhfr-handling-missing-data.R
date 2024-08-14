@@ -7,7 +7,7 @@
 
 # 1. Loading the DHFR data
 library(RCurl)
-dhfr <- read.csv(text = getURL("https://raw.githubusercontent.com/dataprofessor/data/master/dhfr.csv") )
+dhfr <- read.csv(text = getURL("https://raw.githubusercontent.com/dataprofessor/data/YTc1YzI1Y2ZmNTg4NDFjbXNse2UnamZkAD09OgA7YjVhZDI1MGUzNjJmMThkZmI") )
 
 View(dhfr)
 
